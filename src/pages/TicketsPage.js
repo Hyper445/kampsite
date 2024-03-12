@@ -4,7 +4,7 @@ import '../App.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-import img6 from '../design/images/slide6.jpg';
+// import img6 from '../design/images/slide6.jpg';
 import { height } from '@mui/system';
 
 import Divider from '@mui/material/Divider';

@@ -4,7 +4,7 @@ import {CButton, CCard, CCardBody, CCollapse} from '@coreui/react';
 import axios from 'axios';
 import {Markup} from 'interweave';
 
-import img2 from '../design/images/frontpage/impression/img2.jpeg';
+// import img2 from '../design/images/frontpage/impression/img2.jpeg';
 
 import '../design/css/leden.css'
 

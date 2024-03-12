@@ -411,7 +411,7 @@ export default function Index() {
             </div>
 
             <Component component={components[0]}/>
-            <Component text={isEn ? "Pictures" : "Foto's"} component={components[4]}/>
+            {/* <Component text={isEn ? "Pictures" : "Foto's"} component={components[4]}/> */}
             {/* <Component text={isEn ? "Where to find us?" : "Waar vind je ons?"} component={components[3]}/> */}
             {/* <Component text={isEn ? "Sign up!" : "Schrijf je in!"} component={components[2]}/> */}
         </>

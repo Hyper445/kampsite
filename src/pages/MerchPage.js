@@ -1,16 +1,16 @@
 import {Component} from './Index.js';
 import '../design/css/index.css'
 import '../App.css';
-import image1 from '../design/images/shop/1.jpeg';
-import image2 from '../design/images/shop/2.jpeg';
-import image3 from '../design/images/shop/3.jpeg';
-import image4 from '../design/images/shop/4.jpeg';
-import image5 from '../design/images/shop/5.jpeg';
+// import image1 from '../design/images/shop/1.jpeg';
+// import image2 from '../design/images/shop/2.jpeg';
+// import image3 from '../design/images/shop/3.jpeg';
+// import image4 from '../design/images/shop/4.jpeg';
+// import image5 from '../design/images/shop/5.jpeg';
 
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-import img6 from '../design/images/slide6.jpg';
+// import img6 from '../design/images/slide6.jpg';
 import { height } from '@mui/system';
 
 import Divider from '@mui/material/Divider';

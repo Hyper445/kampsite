@@ -7,7 +7,7 @@ import axios from 'axios';
 import {useLocation} from 'react-router-dom'
 import Whoops from './NotFound';
 
-import img6 from '../design/images/slide6.jpg';
+// import img6 from '../design/images/slide6.jpg';
 
 
 function GeneralPage() {
