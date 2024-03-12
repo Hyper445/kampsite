@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "RobotoBold";
+    src: url('./design/fonts/Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: "RobotoRegular";
+    src: url('./design/fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: "RobotoThin";
+    src: url('./design/fonts/Roboto-Thin.ttf');
+}
+
+@font-face {
+    font-family: "LatoRegular";
+    src: url('./design/fonts/Lato/Lato-Regular.ttf');
+}
+
+@font-face {
+    font-family: "LatoBold";
+    src: url('./design/fonts/Lato/Lato-Bold.ttf');
+}
+
+@font-face {
+    font-family: "LatoThin";
+    src: url('./design/fonts/Lato/Lato-Thin.ttf');
+}
+
+#webpack-dev-server-client-overlay {
+    display: none;
+}
+
+body {
+    margin: 0;
+    font-family: "LatoRegular";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background-color: rgb(255, 255, 255); */
+
+    /* background: rgb(255, 255, 255); */
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

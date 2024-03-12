@@ -1,0 +1,1991 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nevobo="https://www.api.nevobo.nl/rss/" version="2.0">
+    <channel>
+        <title>RSS feed Nederlandse Volleybalbond</title>
+        <link>https://api.nevobo.nl/export/vereniging/CKL7K23/programma.rss</link>
+        <description>Wedstrijdprogramma van de Nederlandse volleybalcompetitie, georganiseerd door de Nederlandse
+            Volleybalbond
+        </description>
+        <lastBuildDate>Sun, 27 Aug 2023 14:15:56 +0200</lastBuildDate>
+        <atom:link href="https://api.nevobo.nl/export/vereniging/CKL7K23/programma.rss" rel="self" type="text/xml"/>
+        <item>
+            <title>
+                <![CDATA[ : Sporting/OSS HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1503523</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1503523</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000BH1B 57, Datum: , Speellocatie: ? ]]>
+            </description>
+            <pubDate/>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 sep. 21:00: Netzo DS 2 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504323</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504323</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 AB, Datum: dinsdag 5 september, 21:00, Speellocatie: Zeeburghal, Insulindeweg 1001, 1095DH Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 05 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 sep. 21:00: Albatros DS 6 - UvO DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504224</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504224</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 EB, Datum: woensdag 6 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 06 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 sep. 21:00: Volamos DS 1 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504113</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504113</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 CA, Datum: donderdag 7 september, 21:00, Speellocatie: Sportgebouw Bibian Mentel, Foekje Dillemastraat 118, 1095MK Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 07 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 sep. 19:00: De Spuyt HS 1 - UvO HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504399</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504399</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 AF, Datum: dinsdag 12 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 sep. 21:00: Netzo HS 5 - UvO HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504546</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504546</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 AC, Datum: dinsdag 12 september, 21:00, Speellocatie: Zeeburghal, Insulindeweg 1001, 1095DH Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 sep. 21:00: Netzo HS 7 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504601</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504601</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 DF, Datum: dinsdag 12 september, 21:00, Speellocatie: Zeeburghal, Insulindeweg 1001, 1095DH Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 13 sep. 19:00: Albatros HS 2 - UvO HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504433</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504433</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 BE, Datum: woensdag 13 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 13 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 16 sep. 12:30: VV Amsterdam DS 8 - UvO DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504290</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504290</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 FC, Datum: zaterdag 16 september, 12:30, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 16 Sep 2023 12:30:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 16 sep. 15:00: VV Amsterdam DS 6 - UvO DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504203</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504203</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 AB, Datum: zaterdag 16 september, 15:00, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 16 Sep 2023 15:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 16 sep. 16:00: SVU DS 8 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504376</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504376</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 EB, Datum: zaterdag 16 september, 16:00, Speellocatie: Sportcentrum VU, Uilenstede 100, 1183AM Amstelveen ]]>
+            </description>
+            <pubDate>Sat, 16 Sep 2023 16:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 16 sep. 17:00: CTO’70 Volleybal DS 2 - UvO DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504165</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504165</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 EC, Datum: zaterdag 16 september, 17:00, Speellocatie: Dorpshuis Duivendrecht, Dorpsplein 60, 1115CX Duivendrecht ]]>
+            </description>
+            <pubDate>Sat, 16 Sep 2023 17:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 19:00: UvO DS 3 - Armixtos DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504101</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504101</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AB, Datum: dinsdag 19 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 19:00: UvO DS 6 - Albatros DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504266</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504266</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 DF, Datum: dinsdag 19 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 19:00: UvO DS 7 - Albatros DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504259</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504259</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 CA, Datum: dinsdag 19 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 19:00: UvO HS 4 - SVU HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504557</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504557</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 CD, Datum: dinsdag 19 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 21:00: UvO DS 4 - Volamos DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504210</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504210</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 BD, Datum: dinsdag 19 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 21:00: UvO DS 8 - Netzo DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504333</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504333</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BA, Datum: dinsdag 19 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 21:00: UvO HS 3 - K.V.A. HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504447</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504447</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 EC, Datum: dinsdag 19 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 sep. 21:00: UvO HS 5 - VV Amsterdam HS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504624</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504624</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FE, Datum: dinsdag 19 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 20 sep. 21:00: UvO DS 5 - De Spuyt DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504157</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504157</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 CF, Datum: woensdag 20 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 20 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 20 sep. 21:00: UvO HS 2 - K.V.A. HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504421</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504421</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 FB, Datum: woensdag 20 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 20 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 sep. 19:00: De Spuyt HS 2 - UvO HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504454</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504454</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 FE, Datum: donderdag 21 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 21 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 sep. 21:00: VCS DS 2 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439259</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439259</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O LA, Datum: donderdag 21 september, 21:00, Speellocatie: Wasbeek, Van Alkemadelaan 12, 2171DH Sassenheim ]]>
+            </description>
+            <pubDate>Thu, 21 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 22 sep. 19:15: Spaarnestad HS 9 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1508076</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1508076</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C LA, Datum: vrijdag 22 september, 19:15, Speellocatie: Yvonne van Gennip Sporthal, Sportweg 7, 2024CN Haarlem ]]>
+            </description>
+            <pubDate>Fri, 22 Sep 2023 19:15:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 22 sep. 21:15: Croonenburg DS 1 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438051</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438051</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D LA, Datum: vrijdag 22 september, 21:15, Speellocatie: De Bloemen, De Bloemen 71, 1902GT Castricum ]]>
+            </description>
+            <pubDate>Fri, 22 Sep 2023 21:15:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 26 sep. 21:00: Netzo HS 2 - UvO HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504409</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504409</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 CF, Datum: dinsdag 26 september, 21:00, Speellocatie: Zeeburghal, Insulindeweg 1001, 1095DH Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 26 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 27 sep. 19:00: Albatros HS 4 - UvO HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504551</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504551</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 BC, Datum: woensdag 27 september, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 27 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 27 sep. 21:00: Albatros DS 7 - UvO DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504285</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504285</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 FD, Datum: woensdag 27 september, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 27 Sep 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 28 sep. 19:00: Volamos DS 2 - UvO DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504160</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504160</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 DC, Datum: donderdag 28 september, 19:00, Speellocatie: Sportgebouw Bibian Mentel, Foekje Dillemastraat 118, 1095MK Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 28 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 28 sep. 19:00: Volamos DS 4 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504362</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504362</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 DB, Datum: donderdag 28 september, 19:00, Speellocatie: Sportgebouw Bibian Mentel, Foekje Dillemastraat 118, 1095MK Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 28 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 28 sep. 19:00: Volamos HS 1 - UvO HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504443</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504443</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 DE, Datum: donderdag 28 september, 19:00, Speellocatie: Sportgebouw Bibian Mentel, Foekje Dillemastraat 118, 1095MK Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 28 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 29 sep. 19:00: Armixtos DS 5 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504107</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504107</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 BA, Datum: vrijdag 29 september, 19:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Fri, 29 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 29 sep. 19:00: WEST! DS 1 - UvO DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504251</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504251</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 BC, Datum: vrijdag 29 september, 19:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Fri, 29 Sep 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 29 sep. 19:30: The Setfighters DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439223</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439223</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O KA, Datum: vrijdag 29 september, 19:30, Speellocatie: Zaanlands West, Nieuwendamstraat 2, 1507JE Zaandam ]]>
+            </description>
+            <pubDate>Fri, 29 Sep 2023 19:30:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 sep. 12:30: VV Amsterdam DS 5 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438005</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438005</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D KA, Datum: zaterdag 30 september, 12:30, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 30 Sep 2023 12:30:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 sep. 16:00: K.V.A. DS 5 - UvO DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504229</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504229</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 FB, Datum: zaterdag 30 september, 16:00, Speellocatie: Sportcentrum de Pijp, Lizzy Ansinghstraat 88, 1072RD Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 30 Sep 2023 16:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 sep. 18:30: Osiris US HS 6 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443977</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443977</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C KA, Datum: zaterdag 30 september, 18:30, Speellocatie: Amstelcampus, Tweede Boerhaavestraat 10, 1091AN Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 30 Sep 2023 18:30:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 19:00: UvO DS 1 - K.V.A. DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438971</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438971</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AJ, Datum: dinsdag 3 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 19:00: UvO DS 3 - Volamos DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504102</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504102</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AC, Datum: dinsdag 3 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 19:00: UvO HS 2 - SVU HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504424</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504424</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 FE, Datum: dinsdag 3 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 19:00: UvO HS 3 - US HS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504445</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504445</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 EA, Datum: dinsdag 3 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 21:00: UvO DS 2 - vc De Where DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1448390</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1448390</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AJ, Datum: dinsdag 3 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 21:00: UvO DS 8 - VONO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504335</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504335</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BC, Datum: dinsdag 3 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 21:00: UvO HS 1 - K.V.A. HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443851</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443851</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AJ, Datum: dinsdag 3 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 okt. 21:00: UvO HS 5 - Armixtos HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504619</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504619</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FB, Datum: dinsdag 3 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 03 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 4 okt. 19:00: UvO DS 6 - Xenon DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504260</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504260</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 DB, Datum: woensdag 4 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 04 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 okt. 16:00: SVU DS 5 - UvO DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504149</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504149</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 BC, Datum: zaterdag 7 oktober, 16:00, Speellocatie: Sportcentrum VU, Uilenstede 100, 1183AM Amstelveen ]]>
+            </description>
+            <pubDate>Sat, 07 Oct 2023 16:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 10 okt. 19:00: Xenon DS 1 - UvO DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504243</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504243</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 BD, Datum: dinsdag 10 oktober, 19:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 10 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 10 okt. 19:30: VONO DS 1 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504349</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504349</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 CB, Datum: dinsdag 10 oktober, 19:30, Speellocatie: ICL Landsmeer, Marktplein 11, 1121GL Landsmeer ]]>
+            </description>
+            <pubDate>Tue, 10 Oct 2023 19:30:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 10 okt. 21:00: Xenon DS 2 - UvO DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504283</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504283</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 EC, Datum: dinsdag 10 oktober, 21:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 10 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 10 okt. 21:00: Netzo HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443938</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443938</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C IA, Datum: dinsdag 10 oktober, 21:00, Speellocatie: Zeeburghal, Insulindeweg 1001, 1095DH Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 10 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 okt. 19:00: K.V.A. HS 3 - UvO HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504438</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504438</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 CE, Datum: donderdag 12 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 12 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 13 okt. 21:00: Spaarnestad DS 8 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437914</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437914</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D IA, Datum: vrijdag 13 oktober, 21:00, Speellocatie: Yvonne van Gennip Sporthal, Sportweg 7, 2024CN Haarlem ]]>
+            </description>
+            <pubDate>Fri, 13 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 13 okt. 21:15: Atalante DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439142</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439142</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O IA, Datum: vrijdag 13 oktober, 21:15, Speellocatie: De Boei, Kerklaan 32, 3645EV Vinkeveen ]]>
+            </description>
+            <pubDate>Fri, 13 Oct 2023 21:15:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 14 okt. 12:00: SVU HS 4 - UvO HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504562</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504562</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 DC, Datum: zaterdag 14 oktober, 12:00, Speellocatie: Sportcentrum VU, Uilenstede 100, 1183AM Amstelveen ]]>
+            </description>
+            <pubDate>Sat, 14 Oct 2023 12:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 14 okt. 13:15: US DS 6 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504137</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504137</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 GA, Datum: zaterdag 14 oktober, 13:15, Speellocatie: Amstelcampus, Tweede Boerhaavestraat 10, 1091AN Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 14 Oct 2023 13:15:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 14 okt. 15:00: Smashing '72 HS 2 - UvO HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504414</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504414</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 DF, Datum: zaterdag 14 oktober, 15:00, Speellocatie: Diemen, Prins Bernhardlaan 2, 1111ET Diemen ]]>
+            </description>
+            <pubDate>Sat, 14 Oct 2023 15:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 14 okt. 17:30: VV Amsterdam HS 8 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504613</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504613</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 EF, Datum: zaterdag 14 oktober, 17:30, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 14 Oct 2023 17:30:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 19:00: UvO DS 3 - US DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504104</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504104</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AE, Datum: dinsdag 17 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 19:00: UvO DS 6 - V.C. Waterland DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504262</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504262</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 DC, Datum: dinsdag 17 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 19:00: UvO HS 2 - De Spuyt HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504420</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504420</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 FA, Datum: dinsdag 17 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 19:00: UvO HS 4 - Netzo HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504555</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504555</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 CA, Datum: dinsdag 17 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 21:00: UvO DS 4 - VV Amsterdam DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504208</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504208</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 BA, Datum: dinsdag 17 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 21:00: UvO DS 8 - SVU DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504340</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504340</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BE, Datum: dinsdag 17 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 21:00: UvO HS 3 - Albatros HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504446</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504446</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 EB, Datum: dinsdag 17 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 okt. 21:00: UvO HS 5 - Zipangu HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504618</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504618</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FA, Datum: dinsdag 17 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 17 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 okt. 21:00: UvO DS 5 - Smashing '72 DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504153</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504153</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 CA, Datum: woensdag 18 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 18 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 okt. 21:00: Albatros DS 8 - UvO DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504240</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504240</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 AC, Datum: woensdag 18 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 18 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 19:00: UvO DS 5 - SVU DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504154</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504154</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 CB, Datum: dinsdag 24 oktober, 19:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 19:00: UvO DS 4 - Armixtos DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504209</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504209</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 BC, Datum: dinsdag 24 oktober, 19:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 19:00: UvO HS 2 - Netzo HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504422</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504422</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 FC, Datum: dinsdag 24 oktober, 19:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 19:00: UvO HS 4 - Albatros HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504556</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504556</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 CB, Datum: dinsdag 24 oktober, 19:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 21:00: UvO DS 2 - Compaen DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437697</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437697</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AH, Datum: dinsdag 24 oktober, 21:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 21:00: UvO DS 6 - Armixtos DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504258</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504258</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 DA, Datum: dinsdag 24 oktober, 21:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 21:00: UvO HS 1 - AMVJ-Martinus HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1480311</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1480311</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AH, Datum: dinsdag 24 oktober, 21:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 24 okt. 21:00: UvO HS 5 - Netzo HS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504623</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504623</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FD, Datum: dinsdag 24 oktober, 21:00, Speellocatie: Van Hogendorphal, Van Hogendorpstraat 921, 1051CE Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 24 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 25 okt. 19:00: Albatros DS 5 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504131</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504131</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 FA, Datum: woensdag 25 oktober, 19:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 25 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 25 okt. 19:00: UvO DS 7 - WEST! DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504261</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504261</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 CB, Datum: woensdag 25 oktober, 19:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 25 Oct 2023 19:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 25 okt. 21:00: UvO HS 3 - Volamos HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504448</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504448</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 ED, Datum: woensdag 25 oktober, 21:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 25 Oct 2023 21:00:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 28 okt. 17:30: VV Amsterdam DS 10 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504384</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504384</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 FB, Datum: zaterdag 28 oktober, 17:30, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 28 Oct 2023 17:30:00 +0200</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 31 okt. 19:00: De Spuyt HS 7 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504635</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504635</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 GF, Datum: dinsdag 31 oktober, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 31 Oct 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 31 okt. 21:00: De Spuyt HS 5 - UvO HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504567</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504567</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 EC, Datum: dinsdag 31 oktober, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 31 Oct 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2 nov. 19:00: V.C. Waterland DS 1 - UvO DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504252</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504252</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 CD, Datum: donderdag 2 november, 19:00, Speellocatie: ICL Landsmeer, Marktplein 11, 1121GL Landsmeer ]]>
+            </description>
+            <pubDate>Thu, 02 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2 nov. 21:00: K.V.A. HS 2 - UvO HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504404</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504404</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 BF, Datum: donderdag 2 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 02 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 nov. 19:15: Spaarnestad HS 8 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1508060</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1508060</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C GA, Datum: vrijdag 3 november, 19:15, Speellocatie: Yvonne van Gennip Sporthal, Sportweg 7, 2024CN Haarlem ]]>
+            </description>
+            <pubDate>Fri, 03 Nov 2023 19:15:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 4 nov. 13:15: US DS 8 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504125</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504125</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 EA, Datum: zaterdag 4 november, 13:15, Speellocatie: Amstelcampus, Tweede Boerhaavestraat 10, 1091AN Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 04 Nov 2023 13:15:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 4 nov. 15:15: US DS 9 - UvO DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504390</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504390</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 GB, Datum: zaterdag 4 november, 15:15, Speellocatie: Amstelcampus, Tweede Boerhaavestraat 10, 1091AN Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 04 Nov 2023 15:15:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 4 nov. 15:15: US HS 7 - UvO HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504428</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504428</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 AE, Datum: zaterdag 4 november, 15:15, Speellocatie: Amstelcampus, Tweede Boerhaavestraat 10, 1091AN Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 04 Nov 2023 15:15:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 4 nov. 17:00: VCC'92 DS 2 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437830</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437830</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D GA, Datum: zaterdag 4 november, 17:00, Speellocatie: Wormer Sporthal, Spatterstraat 21, 1531DA Wormer ]]>
+            </description>
+            <pubDate>Sat, 04 Nov 2023 17:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 19:00: UvO DS 1 - AMVJ-Martinus DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438964</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438964</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AF, Datum: dinsdag 7 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 19:00: UvO DS 3 - K.V.A. DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504103</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504103</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AD, Datum: dinsdag 7 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 19:00: UvO HS 2 - Smashing '72 HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504423</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504423</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 FD, Datum: dinsdag 7 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 19:00: UvO HS 3 - De Spuyt HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504449</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504449</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H3K1 EF, Datum: dinsdag 7 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 21:00: UvO DS 2 - Zaanstad DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437692</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437692</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AF, Datum: dinsdag 7 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 21:00: UvO DS 7 - Armixtos DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504263</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504263</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 CD, Datum: dinsdag 7 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 21:00: UvO HS 1 - Zaanstad HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443848</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443848</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AF, Datum: dinsdag 7 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 nov. 21:00: UvO HS 5 - Smashing '72 HS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504621</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504621</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FC, Datum: dinsdag 7 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 07 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 nov. 19:00: Armixtos DS 7 - UvO DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504235</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504235</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 AD, Datum: donderdag 9 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 09 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 nov. 21:00: UvO DS 8 - Volamos DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504338</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504338</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BD, Datum: donderdag 9 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 09 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 17 nov. 19:30: Smashing Velsen '96 DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439020</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439020</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O EA, Datum: vrijdag 17 november, 19:30, Speellocatie: Zeewijk, Planetenweg 301 B, 1973BE IJmuiden ]]>
+            </description>
+            <pubDate>Fri, 17 Nov 2023 19:30:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 nov. 15:00: AP Support Armixtos DS 3 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437770</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437770</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D EA, Datum: zaterdag 18 november, 15:00, Speellocatie: Sportcentrum de Pijp, Lizzy Ansinghstraat 88, 1072RD Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 18 Nov 2023 15:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 nov. 15:00: Smashing '72 DS 4 - UvO DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504144</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504144</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 AC, Datum: zaterdag 18 november, 15:00, Speellocatie: Diemen, Prins Bernhardlaan 2, 1111ET Diemen ]]>
+            </description>
+            <pubDate>Sat, 18 Nov 2023 15:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 nov. 17:00: Armixtos HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443884</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443884</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C EA, Datum: zaterdag 18 november, 17:00, Speellocatie: Sportcentrum de Pijp, Lizzy Ansinghstraat 88, 1072RD Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 18 Nov 2023 17:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 nov. 17:00: Smashing '72 HS 3 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504591</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504591</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 CF, Datum: zaterdag 18 november, 17:00, Speellocatie: Diemen, Prins Bernhardlaan 2, 1111ET Diemen ]]>
+            </description>
+            <pubDate>Sat, 18 Nov 2023 17:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 19:00: UvO DS 1 - VCH DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438960</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438960</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AD, Datum: dinsdag 21 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 19:00: UvO DS 3 - Albatros DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504105</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504105</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AF, Datum: dinsdag 21 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 19:00: UvO DS 5 - CTO’70 Volleybal DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504156</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504156</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 CE, Datum: dinsdag 21 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 19:00: UvO HS 4 - De Spuyt HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504558</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504558</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 CE, Datum: dinsdag 21 november, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 21:00: UvO DS 6 - WEST! DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504264</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504264</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 DE, Datum: dinsdag 21 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 21:00: UvO DS 7 - Xenon DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504265</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504265</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 CE, Datum: dinsdag 21 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 21:00: UvO DS 8 - US DS 9 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504344</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504344</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BG, Datum: dinsdag 21 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 21 nov. 21:00: UvO HS 1 - Smashing '72 HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443846</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443846</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AD, Datum: dinsdag 21 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 21 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 22 nov. 21:00: UvO HS 5 - De Spuyt HS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504626</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504626</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 FG, Datum: woensdag 22 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 22 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 23 nov. 21:00: Volamos DS 3 - UvO DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504219</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504219</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 DB, Datum: donderdag 23 november, 21:00, Speellocatie: Sportgebouw Bibian Mentel, Foekje Dillemastraat 118, 1095MK Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 23 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 28 nov. 21:00: De Spuyt DS 3 - UvO DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504170</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504170</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 FC, Datum: dinsdag 28 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 28 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 nov. 19:15: SVU HS 3 - UvO HS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504419</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504419</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H2H1 EF, Datum: donderdag 30 november, 19:15, Speellocatie: Sportcentrum VU, Uilenstede 100, 1183AM Amstelveen ]]>
+            </description>
+            <pubDate>Thu, 30 Nov 2023 19:15:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 nov. 21:00: Armixtos DS 6 - UvO DS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504214</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504214</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 CB, Datum: donderdag 30 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 30 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 30 nov. 21:00: Armixtos DS 8 - UvO DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504274</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504274</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 DC, Datum: donderdag 30 november, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 30 Nov 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 1 dec. 19:00: WEST! DS 2 - UvO DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504273</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504273</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5A1 ED, Datum: vrijdag 1 december, 19:00, Speellocatie: Calandhal, Eliza van Calcarstraat 2, 1068RR Amsterdam ]]>
+            </description>
+            <pubDate>Fri, 01 Dec 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 1 dec. 19:15: Spaarnestad DS 7 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439070</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439070</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O GA, Datum: vrijdag 1 december, 19:15, Speellocatie: Yvonne van Gennip Sporthal, Sportweg 7, 2024CN Haarlem ]]>
+            </description>
+            <pubDate>Fri, 01 Dec 2023 19:15:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2 dec. 14:00: K.V.A. HS 6 - UvO HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504572</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504572</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 FC, Datum: zaterdag 2 december, 14:00, Speellocatie: Sportcentrum de Pijp, Lizzy Ansinghstraat 88, 1072RD Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 02 Dec 2023 14:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2 dec. 16:00: K.V.A. DS 4 - UvO DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504119</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504119</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 DA, Datum: zaterdag 2 december, 16:00, Speellocatie: Sportcentrum de Pijp, Lizzy Ansinghstraat 88, 1072RD Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 02 Dec 2023 16:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 dec. 19:00: UvO DS 3 - US DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504106</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504106</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D3L1 AG, Datum: woensdag 6 december, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 06 Dec 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 dec. 19:00: UvO DS 7 - VV Amsterdam DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504267</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504267</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D5B1 CF, Datum: woensdag 6 december, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 06 Dec 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 dec. 21:00: UvO DS 4 - Albatros DS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504211</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504211</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 BE, Datum: woensdag 6 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 06 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 dec. 21:00: UvO HS 4 - K.V.A. HS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504559</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504559</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H4F1 CF, Datum: woensdag 6 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 06 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 7 dec. 21:00: Armixtos HS 4 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504585</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504585</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 BF, Datum: donderdag 7 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 07 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 8 dec. 21:00: VHZ DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438977</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438977</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O CA, Datum: vrijdag 8 december, 21:00, Speellocatie: Estafette, Helsinkilaan 1, 2152KG Nieuw-Vennep ]]>
+            </description>
+            <pubDate>Fri, 08 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 dec. 12:30: VV Amsterdam HS 4 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443864</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443864</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C CA, Datum: zaterdag 9 december, 12:30, Speellocatie: Sporthal Laan van Spartaan, Rinus Michelslaan 26, 1061MB Amsterdam ]]>
+            </description>
+            <pubDate>Sat, 09 Dec 2023 12:30:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 dec. 19:00: UvO DS 5 - Volamos DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504155</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504155</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4C1 CD, Datum: dinsdag 12 december, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 dec. 19:00: UvO DS 8 - VV Amsterdam DS 10 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504342</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504342</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D6A1 BF, Datum: dinsdag 12 december, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Dec 2023 19:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 dec. 21:00: UvO DS 2 - Spaarnestad DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1474857</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1474857</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AB, Datum: dinsdag 12 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 dec. 21:00: UvO DS 4 - K.V.A. DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504212</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504212</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D4E1 BF, Datum: dinsdag 12 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 12 dec. 21:00: UvO HS 1 - Oberon HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443844</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443844</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AB, Datum: dinsdag 12 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 12 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 13 dec. 21:00: Zipangu HS 1 - UvO HS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1504579</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1504579</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H5B1 AF, Datum: woensdag 13 december, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Wed, 13 Dec 2023 21:00:00 +0100</pubDate>
+            <nevobo:status>gepland</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 jan. 19:00: UvO DS 1 - The Setfighters DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438973</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438973</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AK, Datum: dinsdag 9 januari, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Jan 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 jan. 21:00: UvO DS 2 - VV Amsterdam DS 5 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437707</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437707</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AK, Datum: dinsdag 9 januari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Jan 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 jan. 21:00: UvO HS 1 - Osiris US HS 6 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443852</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443852</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AK, Datum: dinsdag 9 januari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Jan 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 jan. 19:00: K.V.A. HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443960</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443960</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C JA, Datum: donderdag 18 januari, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 18 Jan 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 jan. 20:00: vc De Where DS 1 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1448398</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1448398</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D JA, Datum: donderdag 18 januari, 20:00, Speellocatie: De Beuk, Van IJsendijkstraat 365, 1442LB Purmerend ]]>
+            </description>
+            <pubDate>Thu, 18 Jan 2024 20:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 18 jan. 21:00: K.V.A. DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439180</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439180</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O JA, Datum: donderdag 18 januari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Thu, 18 Jan 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 23 jan. 19:00: UvO DS 1 - Atalante DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438969</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438969</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AI, Datum: dinsdag 23 januari, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 23 Jan 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 23 jan. 21:00: UvO DS 2 - Spaarnestad DS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437698</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437698</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AI, Datum: dinsdag 23 januari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 23 Jan 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 23 jan. 21:00: UvO HS 1 - Netzo HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443850</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443850</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AI, Datum: dinsdag 23 januari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 23 Jan 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 1 feb. 21:00: AMVJ-Martinus HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1480318</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1480318</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C HA, Datum: donderdag 1 februari, 21:00, Speellocatie: Nieuwe Bankrashal, Pandora 3, 1183KK Amstelveen ]]>
+            </description>
+            <pubDate>Thu, 01 Feb 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 3 feb. 13:30: Compaen DS 5 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437870</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437870</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D HA, Datum: zaterdag 3 februari, 13:30, Speellocatie: Oostzaan, Twiskeweg 107, 1511BW Oostzaan ]]>
+            </description>
+            <pubDate>Sat, 03 Feb 2024 13:30:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 feb. 19:00: UvO DS 1 - Spaarnestad DS 7 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438965</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438965</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AG, Datum: dinsdag 6 februari, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 06 Feb 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 feb. 21:00: UvO DS 2 - VCC'92 DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437694</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437694</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AG, Datum: dinsdag 6 februari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 06 Feb 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 6 feb. 21:00: UvO HS 1 - Spaarnestad HS 8 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1508048</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1508048</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AG, Datum: dinsdag 6 februari, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 06 Feb 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 29 feb. 19:15: AMVJ-Martinus DS 1 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1439042</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1439042</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O FA, Datum: donderdag 29 februari, 19:15, Speellocatie: Nieuwe Bankrashal, Pandora 3, 1183KK Amstelveen ]]>
+            </description>
+            <pubDate>Thu, 29 Feb 2024 19:15:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 1 mrt. 21:15: Zaanstad HS 4 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443895</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443895</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C FA, Datum: vrijdag 1 maart, 21:15, Speellocatie: Topsportcentrum De Koog, Wezelstraat 7 D, 1541LZ Koog aan de Zaan ]]>
+            </description>
+            <pubDate>Fri, 01 Mar 2024 21:15:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 2 mrt. 13:15: Zaanstad DS 5 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437801</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437801</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D FA, Datum: zaterdag 2 maart, 13:15, Speellocatie: Topsportcentrum De Koog, Wezelstraat 7 D, 1541LZ Koog aan de Zaan ]]>
+            </description>
+            <pubDate>Sat, 02 Mar 2024 13:15:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 mrt. 19:00: UvO DS 1 - Smashing Velsen '96 DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438962</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438962</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AE, Datum: dinsdag 5 maart, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 05 Mar 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 mrt. 21:00: UvO DS 2 - AP Support Armixtos DS 3 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437689</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437689</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AE, Datum: dinsdag 5 maart, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 05 Mar 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 mrt. 21:00: UvO HS 1 - Armixtos HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443847</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443847</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AE, Datum: dinsdag 5 maart, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 05 Mar 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 13 mrt. 20:00: VCH DS 3 - UvO DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438995</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438995</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O DA, Datum: woensdag 13 maart, 20:00, Speellocatie: FBK-hal, Arnolduspark 3, 2132CR Hoofddorp ]]>
+            </description>
+            <pubDate>Wed, 13 Mar 2024 20:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 16 mrt. 15:00: Smashing '72 HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443874</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443874</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C DA, Datum: zaterdag 16 maart, 15:00, Speellocatie: Diemen, Prins Bernhardlaan 2, 1111ET Diemen ]]>
+            </description>
+            <pubDate>Sat, 16 Mar 2024 15:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 mrt. 19:00: UvO DS 1 - VHZ DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438957</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438957</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AC, Datum: dinsdag 19 maart, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Mar 2024 19:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 19 mrt. 21:00: UvO HS 1 - VV Amsterdam HS 4 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443845</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443845</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AC, Datum: dinsdag 19 maart, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 19 Mar 2024 21:00:00 +0100</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 apr. 19:15: Oberon HS 1 - UvO HS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1443854</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1443854</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C BA, Datum: vrijdag 5 april, 19:15, Speellocatie: ICK Weespersluis, Fort Diemerdamstraat 73, 1384AH Weesp ]]>
+            </description>
+            <pubDate>Fri, 05 Apr 2024 19:15:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 5 apr. 21:00: Spaarnestad DS 5 - UvO DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1474858</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1474858</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D BA, Datum: vrijdag 5 april, 21:00, Speellocatie: Yvonne van Gennip Sporthal, Sportweg 7, 2024CN Haarlem ]]>
+            </description>
+            <pubDate>Fri, 05 Apr 2024 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 apr. 19:00: UvO DS 1 - VCS DS 2 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1438975</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1438975</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1O AL, Datum: dinsdag 9 april, 19:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Apr 2024 19:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 apr. 21:00: UvO DS 2 - Croonenburg DS 1 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1437711</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1437711</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000D1D AL, Datum: dinsdag 9 april, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Apr 2024 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+        <item>
+            <title>
+                <![CDATA[ 9 apr. 21:00: UvO HS 1 - Spaarnestad HS 9 ]]>
+            </title>
+            <link>https://api.nevobo.nl/permalink/wedstrijd/1508049</link>
+            <guid>https://api.nevobo.nl/permalink/wedstrijd/1508049</guid>
+            <description>
+                <![CDATA[ Wedstrijd: 3000H1C AL, Datum: dinsdag 9 april, 21:00, Speellocatie: Wethouder Verheijhal, Polderweg 300, 1093KP Amsterdam ]]>
+            </description>
+            <pubDate>Tue, 09 Apr 2024 21:00:00 +0200</pubDate>
+            <nevobo:status>concept</nevobo:status>
+        </item>
+    </channel>
+</rss>
